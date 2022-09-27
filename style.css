@@ -1,0 +1,45 @@
+body {
+    margin-left: 0%;
+    margin-right: 0%;
+}
+/* Intestazione */
+header {
+    margin-left: 0%;
+    margin-right: 0%;
+}
+header div {
+    height: 170px;
+    background-image: url("img/pattern.png");
+    background-color: rgb(13, 170, 218);
+    position: relative;
+    
+}
+
+.Logo {
+    width: 15%;
+    position: absolute;
+    bottom: 10%;
+    left: 0.5%;
+}
+
+/* corpo della pagina */
+.container {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+main h1 {
+    font-size: 45px;
+    margin-bottom: 0%;
+}
+
+h3, h4 {
+    color: grey;
+    margin-top: 0%;
+}
+h3 span {
+    color: rgb(10, 168, 216);
+}
+
+p span {
+    background-color: yellow;
+}
